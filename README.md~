@@ -4,7 +4,7 @@ revolt_android_packages_apps_Settings
 Settings for ReVolt to track changes for DNA use, namely hardware keys mapping ability.
 
 Basing on:
-1/2(framework)
+1/1(framework)
 https://github.com/PAC-man/android_frameworks_base/commit/6b2bafd1373791ea1fb2774735cb866062367646
 
 
